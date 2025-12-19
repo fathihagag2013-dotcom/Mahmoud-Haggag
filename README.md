@@ -1,5 +1,12 @@
 # Maze Solving Using Search Algorithms (BFS, DFS, A*)
 
+## Team members roles
+محمود محمد فتحي عثمان حجاج : BFS , DFS
+
+محمد البسيوني محمد احمد موسي اسماعيل : *A
+
+---
+
 ## 📌 Overview
 This project solves the **Maze Solving problem** using classical search algorithms in Artificial Intelligence. The objective is to navigate an agent from a start position to a goal position in a grid-based maze while avoiding obstacles.
 
