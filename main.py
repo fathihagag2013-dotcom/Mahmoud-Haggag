@@ -1,4 +1,4 @@
-# run_algorithms.py
+# main.py
 
 import time
 from bfs import bfs
