@@ -108,7 +108,6 @@ These metrics highlight the efficiency advantages of heuristic-guided search (A*
 
 
 
----
 
 ## 📁 Project Structure
 ```
