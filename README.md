@@ -120,8 +120,8 @@ These metrics highlight the efficiency advantages of heuristic-guided search (A*
 ```
 Maze project/
 │
-├── run_algorithms.py
 ├── main.py
+├── compare_algorithms.py
 ├── maze.py
 ├── bfs.py
 ├── dfs.py
