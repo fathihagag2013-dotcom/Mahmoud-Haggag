@@ -118,8 +118,9 @@ These metrics highlight the efficiency advantages of heuristic-guided search (A*
 
 ## 📁 Project Structure
 ```
-Maze-Search-Algorithms/
+Maze project/
 │
+├── run_algorithms.py
 ├── main.py
 ├── maze.py
 ├── bfs.py
