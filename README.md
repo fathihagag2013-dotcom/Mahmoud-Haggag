@@ -61,7 +61,7 @@ BFS explores the maze level by level, expanding all nodes at the current depth b
 DFS explores as deep as possible along a path before backtracking.
 
 **Properties:**
-- Complete: ❌ No (in infinite or cyclic spaces)
+- Complete: yes
 - Optimal: ❌ No
 - Time Complexity: `O(V + E)`
 - Space Complexity: `O(V)`
@@ -97,7 +97,7 @@ h(n) = |x1 - x2| + |y1 - y2|
 | Algorithm | Complete | Optimal | Time Complexity | Space Complexity | Notes |
 |---------|----------|---------|-----------------|------------------|------|
 | BFS     | Yes      | Yes     | O(V + E)        | O(V)             | Guarantees shortest path |
-| DFS     | No       | No      | O(V + E)        | O(V)             | Memory-efficient but unreliable |
+| DFS     | Yes      | No      | O(V + E)        | O(V)             | Memory-efficient but unreliable |
 | A*      | Yes      | Yes     | Exponential     | O(V)             | Best practical performance |
 
 ---
