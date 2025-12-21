@@ -130,10 +130,16 @@ Maze project/
 
 ---
 
-## 📝 Conclusion
+## 📝 Conclusion And additonal notes
 - **BFS** guarantees the shortest path but requires significant memory.
 - **DFS** is memory-efficient but does not guarantee optimal solutions.
 - **A*** provides the best balance between efficiency and optimality using heuristic guidance.
+
+Best Algorithm Under Conditions: 
+- Small maze: BFS or DFS 
+- Large maze: A* 
+- Limited memory: DFS
+- Need optimal solution: BFS or A*
 
 A* is the preferred algorithm for maze-solving problems when an admissible heuristic is available.
 
