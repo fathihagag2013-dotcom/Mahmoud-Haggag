@@ -136,7 +136,7 @@ Maze project/
 - **A*** provides the best balance between efficiency and optimality using heuristic guidance.
 
 Best Algorithm Under Conditions: 
-- Small maze: BFS or DFS 
+
 - Large maze: A* 
 - Limited memory: DFS
 - Need optimal solution: BFS or A*
