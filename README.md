@@ -61,7 +61,7 @@ BFS explores the maze level by level, expanding all nodes at the current depth b
 DFS explores as deep as possible along a path before backtracking.
 
 **Properties:**
-- Complete: yes
+- Complete: ✅ Yes
 - Optimal: ❌ No
 - Time Complexity: `O(V + E)`
 - Space Complexity: `O(V)`
